@@ -1,4 +1,4 @@
-package test;
+package solution.week1.DesignAndPrinciples.FACTORY_METHOD.FactoryMethodPatternExample.src.test;
 
 import factory.*;
 import document.*;

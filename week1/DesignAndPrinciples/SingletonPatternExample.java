@@ -1,4 +1,4 @@
-package solution.week1;
+package solution.week1.DesignAndPrinciples;
 
 public class SingletonPatternExample {
     static class Logger{
