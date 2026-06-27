@@ -1,3 +1,4 @@
+package Junit.JunitEx3and4.junitdemo.src.test.java;
 import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -29,5 +30,6 @@ public class CalculatorTest {
 
         
         assertEquals(30, result);
+ 
     }
 }
