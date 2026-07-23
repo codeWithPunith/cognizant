@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 30px;
+}
+
+.box {
+    width: 350px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid gray;
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+    color: navy;
+}
+
+p {
+    margin: 10px 0;
+}
